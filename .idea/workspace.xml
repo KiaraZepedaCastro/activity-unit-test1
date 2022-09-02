@@ -48,7 +48,7 @@
       <recent name="com.unicorn" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorServiceTest.testAddMultiple">
+  <component name="RunManager" selected="Application.CalculatorService">
     <configuration name="CalculatorService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.unicorn.CalculatorService" />
       <module name="activity-unit-test" />
@@ -94,11 +94,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CalculatorServiceTest.testMultiply" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="activity-unit-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.unicorn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.unicorn" />
+      <option name="MAIN_CLASS_NAME" value="com.unicorn.CalculatorServiceTest" />
+      <option name="METHOD_NAME" value="testMultiply" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculatorService" />
+        <item itemvalue="JUnit.CalculatorServiceTest.testMultiply" />
         <item itemvalue="JUnit.CalculatorServiceTest.testAddMultiple" />
         <item itemvalue="JUnit.CalculatorServiceTest.testAdd" />
-        <item itemvalue="Application.CalculatorService" />
       </list>
     </recent_temporary>
   </component>
